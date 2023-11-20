@@ -1,3 +1,5 @@
+#My Addition - an Eagle Schematic and PCB that is proven to work (I'm using it on my Chamberlain garage door).
+
 # rat-ratgdo
 RAGE
 AGAINST
