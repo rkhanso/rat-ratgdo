@@ -1,5 +1,9 @@
 # My Addition
 -an Eagle Schematic and PCB that is proven to work (I'm using it on my Chamberlain garage door).
+My schematic/board uses a 2n7000 and a RFP30N06LE.
+Controller is a generic ESP8266 D1 Mini.
+There is only one 3-pin screw connector. Why do you need anything more? 
+No extra dry contacts or anything. Just use this in Home Assistant and you'll be fine.
 
 # rat-ratgdo
 RAGE
